@@ -8,12 +8,11 @@ Account system with go backend and a react-typescript UI
 
 ### How to run
 
+
 `make run_server`
 
-or
-
-`make run_api`
-`make_run_ui`
+Or:
+`make run_api` in one terminal and `make run_ui` in other terminal
 
 
 * Backend runs on http://localhost:8000/
