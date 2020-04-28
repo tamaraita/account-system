@@ -5,7 +5,7 @@ run_api:
 	go run test-task-api/main.go
 
 run_ui:
-	cd test-task-ui/src && yarn && yarn start
+	cd test-task-ui/src && npm && npm start
 
 run_server:
 	make run_api & make run_ui
