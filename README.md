@@ -12,6 +12,7 @@ Account system with go backend and a react-typescript UI
 `make run_server`
 
 Or:
+
 `make run_api` in one terminal and `make run_ui` in other terminal
 
 
