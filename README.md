@@ -16,5 +16,5 @@ Or:
 `make run_api` in one terminal and `make run_ui` in other terminal
 
 
-* Backend runs on http://localhost:8000/
-* Front end runs on http://localhost:3000/
+* Back End runs on http://localhost:8000/
+* Front End runs on http://localhost:3000/
